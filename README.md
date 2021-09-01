@@ -11,7 +11,7 @@ This data can either be displayed in the console window, or output to the file r
 ## Quickstart
 
 If you are on Windows, a prebuilt binary is available on the Releases page, 
-click [here](https://github.com/sashahilton00/teamer_rsvp/releases/download/v1.0.0/teamer_rsvp_windows_x86-64.zip) to 
+click [here](https://github.com/sashahilton00/teamer_rsvp/releases/download/v1.0.1/teamer_rsvp_windows_x86-64.zip) to 
 download.
 
 Run the `Teamer.exe` executable to spawn a CLI instance of the app.

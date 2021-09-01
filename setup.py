@@ -9,8 +9,6 @@ setup(
     }],
     options={
         'py2exe': {
-            'bundle_files': 3,
-            'optimize': 2,
             'dist_dir': 'executable'
         }
     }

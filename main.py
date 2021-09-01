@@ -187,6 +187,9 @@ def print_rsvp_tables(rsvps):
 
             click.echo(tabulate(tabular_data=table_data, headers=headers, tablefmt='orgtbl') + '\n', file=output_location)
 
+    click.secho('Press any key to close', bold=True)
+    click.pause()
+
 
 def main():
     click.clear()
